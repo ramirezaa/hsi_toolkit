@@ -1,2 +1,30 @@
-# Hyperspectral Imaging Toolkit
-This is a C++ toolkit to help with Hyperspectral Imaging (HSI) and the analysis of multispectral images. OpenCV is used as the main Graphical User Interface (GUI). Please find all of the dependencies below.
+# README #
+
+### What is this repository for? ###
+
+* The provided source code implements Principal Component Analysis(PCA) and
+Locally Linear Embedding(LLE) on a: CPU, GPU, and Hadoop+GPU. Refer to the 
+writeup to obtain a deeper understanding of feature extraction and classification.
+
+
+* Version
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* 
+* 
+* 
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
