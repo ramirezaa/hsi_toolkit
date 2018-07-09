@@ -5,7 +5,8 @@
 * The provided source code implements Principal Component Analysis(PCA) and
 Locally Linear Embedding(LLE) on a: CPU, GPU, and Hadoop+GPU. Refer to the 
 writeup to obtain a deeper understanding of feature extraction and classification.
-
+* Locally Linear Embedding (LLE)
+* Principal Component Analysis (PCA)
 
 * Version
 
